@@ -1,0 +1,121 @@
+*{ 
+    padding: 0px;
+    margin: 0px;
+
+}
+div{
+    width: 600px;
+}
+.PH{
+    background-color: grey;
+}
+.PARA1{
+    background-color:red ;
+    background-image: url(./images/milk_bottle-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 40px;
+}
+.PARA2{
+    background-color: rgb(233, 11, 11);
+    background-image: url(./images/apple.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 30px;
+}
+.PARA3{
+    background-color: rgb(255, 19, 19);
+    background-image: url(./images/baking\ soda.jpeg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 30px;
+
+}
+.PARA4{
+    background-color: rgb(212, 7, 7);
+    background-image: url(./images/bottle.jpeg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 30px;
+
+}
+.PARA5{
+    background-color: rgb(240, 9, 9);
+    background-image: url(./images/coffee.jpeg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 30px;
+}
+/* .PARA6{
+    background-color: rgb(196, 51, 51);}
+    background-image: url(./);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 30px; */
+    .PARA7{
+        background-color: rgb(218, 75, 75);
+        background-image: url(./images/soap.jpeg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 30px;
+    }
+    .PARA8{
+        background-color: rgb(99, 128, 56);
+        background-image: url(./images/eggs.jpeg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 30px;
+    }
+    .PARA9{
+        background-color: rgb(138, 192, 58);
+        background-image: url(./images/water.jpeg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 30px;
+    }
+    .PARA10{
+        background-color: greenyellow;
+        background-image: url(./images/lemon.jpeg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 30px;
+    }
+    .PARA11{
+        background-color: rgb(159, 216, 73);
+        background-image: url(./images/soap.jpeg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 30px;
+    }
+    .PARA12{
+        background-color: rgb(148, 226, 31);
+        background-image: url(./images/stomach.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 30px;
+    }
+    .PARA13{
+        background-color: rgb(137, 223, 9);
+        background-image: url(./images/vineger.jpeg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 30px;
+    }
+    .PARA14{
+        background-color: rgb(153, 255, 0);
+        background-image: url(./images/vineger.jpeg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 30px;
+    }
+    .PARA15{
+        background-color: yellowgreen;
+        background-image: url(./images/milk_bottle-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 30px;
+    }
+    div{
+        background-color: black;
+        border-radius: 40px;
+    }
